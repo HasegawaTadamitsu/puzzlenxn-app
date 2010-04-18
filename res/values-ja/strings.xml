@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">
+    puzzle nxn
+  </string>
+  <string name="main_message">
+    単なるパズルです。できるだけ早く元の位置に移動させてください。
+  </string>
+  <string name="button_label_config">
+    設定
+  </string>
+  <string name="button_label_quit">
+    ゲーム終了
+  </string>
+
+  <string name="menu_game_shuffle">
+    まぜる。
+  </string>
+  <string name="menu_game_shuffle_sure_title">
+    まぜていい？
+  </string>
+  <string name="menu_game_shuffle_sure_msg">
+    今までの苦労が無駄になります。それでも再度混ぜてよいでしょうか？
+    ちなみにタイムは０：００になります。
+  </string>
+  <string name="menu_game_quit">
+    ゲーム終了
+  </string>
+  <string name="menu_game_quit_sure_title">
+    ゲーム終了していい？
+  </string>
+  <string name="menu_game_quit_sure_msg">
+    このままゲームを終了してよいでしょうか？
+  </string>
+
+  <string name="result_message">
+    congratulations and good job!
+  </string>
+  <string name="your_score">
+    あなたのスコア
+  </string>
+  <string name="best_score">
+    ベストスコア
+  </string>
+  <string name="button_label_back_main">
+    ゲームメイン画面に戻る
+  </string>
+
+  <string name="button_label_clear_score">
+    ベストスコアのクリア
+  </string>
+  <string name="config_clear_score_title">
+    ベストスコアのクリア
+  </string>
+  <string name="config_clear_score_msg">
+    本当にベストスコアをクリアしてよい？
+  </string>
+
+
+</resources>
